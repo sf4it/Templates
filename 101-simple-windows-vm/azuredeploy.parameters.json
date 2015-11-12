@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "dmgstore1"
+      "value": "selfstore1"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "sf4it"
     },
     "adminPassword": {
-      "value": "Passw0rd!"
+      "value": "q1w2e300"
     },
     "dnsNameForPublicIP": {
-      "value": "dmg6685"
+      "value": "self4it"
     },
     "location": {
       "value": "West US"
